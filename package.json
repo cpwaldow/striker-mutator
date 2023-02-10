@@ -4,7 +4,7 @@
   "description": "Uma ferramenta que testa seus testes?",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cpwaldow/striker-mutator/issues"
   },
-  "homepage": "https://github.com/cpwaldow/striker-mutator#readme"
+  "homepage": "https://github.com/cpwaldow/striker-mutator#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
 }
