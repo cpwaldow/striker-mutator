@@ -1,0 +1,20 @@
+{
+  "name": "striker-mutator",
+  "version": "1.0.0",
+  "description": "Uma ferramenta que testa seus testes?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpwaldow/striker-mutator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpwaldow/striker-mutator/issues"
+  },
+  "homepage": "https://github.com/cpwaldow/striker-mutator#readme"
+}
