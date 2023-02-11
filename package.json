@@ -4,7 +4,8 @@
   "description": "Uma ferramenta que testa seus testes?",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "stryker": "stryker run"
   },
   "repository": {
     "type": "git",
