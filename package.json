@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/cpwaldow/striker-mutator#readme",
   "devDependencies": {
+    "@stryker-mutator/core": "^6.3.1",
+    "@stryker-mutator/jest-runner": "^6.3.1",
     "jest": "^29.4.2"
   }
 }
